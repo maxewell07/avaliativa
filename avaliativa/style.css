@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.a1 {
+    background-color: #004bc6;
+    padding: 10px;
+    width: 100%;
+    overflow: none;
+    text-align: center;
+    position: fixed;
+}
+
+.botao {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.botao:hover {
+    color: rgb(174, 0, 255);
+}
+
+body {
+    background-color: #c6004e;
+    color: white;
+}
+
+.paragrafo {
+    font-size: 20px;
+}
+
+#a2 {
+    padding: 220px 50px 0 50px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+#a3 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+    padding: 60px 30px 40px 0;
+}
+
+#a4 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.p1{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.rodape {
+    background-color: #004bc6;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
